@@ -19,3 +19,5 @@
 
  <h1>Burning ship set :</h1>
 <img width="695" alt="Screen Shot 2024-04-01 at 3 15 07 PM" src="https://github.com/AliAkouhar/fract-ol_42/assets/133344572/762bc730-4a0d-4f2b-8549-8e0f84332c95"><br>
+
+<img width="702" alt="Screen Shot 2024-04-01 at 3 16 56 PM" src="https://github.com/AliAkouhar/fract-ol_42/assets/133344572/b4403215-f489-4a5f-a909-3427b5c80d4e"><br>
